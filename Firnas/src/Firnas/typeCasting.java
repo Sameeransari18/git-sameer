@@ -9,6 +9,7 @@ public class typeCasting {
 		
 		i = ii;	//auto unboxing 
 		
+		//Type casting also has manual type casting
 		
 		System.out.println(ii);
 	}
